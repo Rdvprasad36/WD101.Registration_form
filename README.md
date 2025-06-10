@@ -16,5 +16,4 @@ This project is a **dynamic registration form** built using **HTML, CSS, and Jav
 - 🔹 **JavaScript** (Validation, storage, dynamic updates)
 
 ## Installation
-```sh
-git clone [your-repository-link]
+https://github.com/Rdvprasad36/WD101.Registration_form
